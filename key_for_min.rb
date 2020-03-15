@@ -10,5 +10,5 @@ name_hash.each do |k, v|
     smallest_value = v
   end
 end
-return smallest_value
+return smallest_key
 end
